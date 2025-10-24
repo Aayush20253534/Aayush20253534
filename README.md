@@ -10,7 +10,7 @@
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Other Tools:** Git, GitHub  
-- **Languages:**Python,C++,C,JavaScript 
+- **Languages:** Python,C++,C,JavaScript 
 
 ---
 
