@@ -22,15 +22,6 @@
 
 ---
 
-## 📌 Project Highlights
-Here are a few projects that showcase my learning and skills:  
-- 🌐 **Portfolio Website** – A personal portfolio made using HTML, CSS, JS.  
-- 🎬 **YouTube Clone (Frontend)** – A UI clone built with HTML, CSS & JavaScript.  
-- 🛒 **E-commerce Website (Basic)** – Backend with Node.js & Express.js handling routes.  
-
-*(More projects coming soon as I explore full-stack development!)*  
-
----
 
 ## 📊 GitHub Stats
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight)  
