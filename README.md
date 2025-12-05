@@ -24,9 +24,9 @@
 
 
 ## 📊 GitHub Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Aayush20253534&theme=tokyonight&hide_border=true)  
+![Aayush’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aayush20253534&theme=tokyonight)
 
 ---
 
