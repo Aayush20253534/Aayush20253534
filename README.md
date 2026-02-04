@@ -29,9 +29,9 @@ Always open to new technologies and projects!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight" alt="Aayush's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight" alt="Aayush's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight" alt="Top Languages" />
   
   <img src="https://streak-stats.demolab.com?user=Aayush20253534&theme=tokyonight" alt="GitHub Streak" />
 </div>
