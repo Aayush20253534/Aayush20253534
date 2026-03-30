@@ -9,10 +9,9 @@
 ## 🚀 Skills & Technologies
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
 - **Languages:** JavaScript, Python, C++, C  
 - **Tools & Others:** Git, GitHub  
-- **Currently Exploring:** Full-Stack Development, React.js, MongoDB
+- **Currently Exploring:** Full-Stack Development, React.js, MongoDB, GSAP Animation Library
 
 ---
 
