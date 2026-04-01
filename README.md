@@ -1,3 +1,30 @@
+# 🚀 Aayush Thakur
+
+### **Frontend + AI Builder | Hackathon Performer | Turning Ideas into Products**
+
+---
+
+## 🧠 Who Am I?
+
+I don’t just learn tech — I **build systems with it**.
+
+I’m a **B.Tech CSE (1st Year) student at MNNIT Allahabad**, focused on
+**Frontend + AI integration**, creating products that solve real-world problems.
+
+From hackathons to full-stack prototypes, I thrive in **high-pressure environments**
+where ideas turn into working products — fast.
+
+---
+
+## ⚡ What I Do
+
+* 🧩 Build **AI-powered web applications**
+* 🎯 Focus on **user-centric frontend + intelligent backend integration**
+* ⚙️ Turn raw ideas into **scalable product prototypes**
+* 🧠 Combine **React + AI models** to create real impact
+
+---
+
 ## 🛠️ Tech Arsenal
 
 ### 💻 Frontend
@@ -32,31 +59,6 @@
 ![Sankalp](https://img.shields.io/badge/Sankalp%202026-Top%2010-gold)
 ![DevJam](https://img.shields.io/badge/DevJam-3rd%20Place-red)
 ![Builder Mode](https://img.shields.io/badge/Mindset-Hackathon%20Builder-ff69b4)
-
-# 🚀 Aayush Thakur
-
-### **Frontend + AI Builder | Hackathon Performer | Turning Ideas into Products**
-
----
-
-## 🧠 Who Am I?
-
-I don’t just learn tech — I **build systems with it**.
-
-I’m a **B.Tech CSE (1st Year) student at MNNIT Allahabad**, focused on
-**Frontend + AI integration**, creating products that solve real-world problems.
-
-From hackathons to full-stack prototypes, I thrive in **high-pressure environments**
-where ideas turn into working products — fast.
-
----
-
-## ⚡ What I Do
-
-* 🧩 Build **AI-powered web applications**
-* 🎯 Focus on **user-centric frontend + intelligent backend integration**
-* ⚙️ Turn raw ideas into **scalable product prototypes**
-* 🧠 Combine **React + AI models** to create real impact
 
 ---
 
