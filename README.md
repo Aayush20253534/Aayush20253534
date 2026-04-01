@@ -1,3 +1,38 @@
+## 🛠️ Tech Arsenal
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React.js-Frontend-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Core-yellow)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC)
+![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02)
+
+---
+
+### ⚙️ Core Programming
+![Python](https://img.shields.io/badge/Python-Primary-informational)
+![C++](https://img.shields.io/badge/C++-DSA-blue)
+![C](https://img.shields.io/badge/C-Foundation-lightgrey)
+
+---
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ANN%20%7C%20CNN-red)
+![AI Builder](https://img.shields.io/badge/Focus-AI%20Product%20Builder-purple)
+
+---
+
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-Version%20Control-black)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717)
+
+---
+
+### 🏆 Hackathon Edge
+![Sankalp](https://img.shields.io/badge/Sankalp%202026-Top%2010-gold)
+![DevJam](https://img.shields.io/badge/DevJam-3rd%20Place-red)
+![Builder Mode](https://img.shields.io/badge/Mindset-Hackathon%20Builder-ff69b4)
+
 # 🚀 Aayush Thakur
 
 ### **Frontend + AI Builder | Hackathon Performer | Turning Ideas into Products**
@@ -79,26 +114,6 @@ Transforms a user’s profile into:
 * Structured doubt-solving ecosystem
 
 👉 Designed to make **education more accessible & intelligent**
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Frontend
-
-React.js • JavaScript • Tailwind CSS • GSAP
-
-### ⚙️ Core Programming
-
-Python • C++ • C
-
-### 🤖 AI / ML
-
-Machine Learning • Deep Learning *(ANN, CNN)*
-
-### 🔧 Tools
-
-Git • GitHub
 
 ---
 
