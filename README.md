@@ -1,12 +1,16 @@
-# 🚀 Aayush Thakur
+<h1 align="center">Aayush Thakur</h1>
 
-### Full-Stack Developer | AI Builder | Hackathon Performer
+<h3 align="center">
+Full-Stack Developer | AI Builder | Hackathon Performer
+</h3>
 
-> Building products, not just projects.
+<p align="center">
+Building products, not just projects.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> About Me
 
 I'm a **B.Tech CSE (2nd Year) student at MNNIT Allahabad** passionate about building impactful software that combines modern web technologies with Artificial Intelligence.
 
@@ -16,9 +20,7 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 
 ---
 
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
+## <img src="https://skillicons.dev/icons?i=cpp" width="24"/> Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,js,java,python" />
@@ -26,21 +28,21 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 
 ---
 
-## 🎨 Frontend Development
+## <img src="https://skillicons.dev/icons?i=react" width="24"/> Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-- React.js Ecosystem
 - React Router
 - Context API
 - Custom Hooks
-- GSAP Animations
+- GSAP Animation Library
+- Responsive UI Development
 
 ---
 
-## ⚙️ Backend Development
+## <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -48,10 +50,11 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 
 - REST APIs
 - Authentication & Authorization
+- API Integration
 
 ---
 
-## 🗄 Databases & Cloud
+## <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
@@ -62,14 +65,17 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## <img src="https://skillicons.dev/icons?i=python" width="24"/> Artificial Intelligence & Machine Learning
 
 ### Machine Learning
+
 - Data Preprocessing
 - Feature Engineering
 - Model Training & Evaluation
+- Supervised & Unsupervised Learning
 
 ### Deep Learning
+
 - ANN (Artificial Neural Networks)
 - CNN (Convolutional Neural Networks)
 - RNN (Recurrent Neural Networks)
@@ -77,13 +83,14 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 - GRU (Gated Recurrent Units)
 
 ### AI Development
+
 - LangChain
 - Gemini API Integration
 - AI-Powered Applications
 
 ---
 
-## 🔧 Tools & Workflow
+## <img src="https://skillicons.dev/icons?i=git" width="24"/> Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -91,27 +98,26 @@ I enjoy solving challenging problems, learning new technologies, and creating so
 
 ---
 
-# 🏆 Hackathon Achievements
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> Hackathon Achievements
 
-🥇 **Sankalp 2026** - Top 10 Finalist
-
-🥉 **DevJam** - 3rd Place
-
-🏅 **Hack18** - Top 10 Finalist
-
-🥈 **Dev or Die** - 2nd Place
+| Competition | Achievement |
+|------------|------------|
+| Sankalp 2026 | Top 10 Finalist |
+| DevJam | 3rd Place |
+| Hack18 | Top 10 Finalist |
+| Dev or Die | 2nd Place |
 
 ---
 
-# 🚀 Featured Projects
+## <img src="https://skillicons.dev/icons?i=react" width="24"/> Featured Projects
 
-## 🔥 Elevate AI
+### Elevate AI
 
-### AI-Powered Career Command Center
+**AI-Powered Career Command Center**
 
 An intelligent platform that helps users accelerate career growth through AI-driven insights.
 
-### Features
+#### Features
 
 - AI Resume Builder
 - Personalized Learning Roadmaps
@@ -121,7 +127,7 @@ An intelligent platform that helps users accelerate career growth through AI-dri
 - Career Dashboard
 - Community & Messaging
 
-### Tech Stack
+#### Tech Stack
 
 - React.js
 - Tailwind CSS
@@ -133,18 +139,18 @@ An intelligent platform that helps users accelerate career growth through AI-dri
 
 ---
 
-## 🎯 Campus Chanakya
+### Campus Chanakya
 
-### AI-Powered Student Guidance Platform
+**AI-Powered Student Guidance Platform**
 
-- AI-driven doubt solving
-- Learning assistance
+- AI-powered doubt solving
+- Personalized learning assistance
 - Academic guidance
 - Structured support ecosystem
 
 ---
 
-# 📈 Currently Exploring
+## <img src="https://skillicons.dev/icons?i=devto" width="24"/> Currently Exploring
 
 - Advanced MERN Development
 - System Design
@@ -154,55 +160,52 @@ An intelligent platform that helps users accelerate career growth through AI-dri
 
 ---
 
-# 📊 GitHub Stats
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aayush20253534&theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush20253534&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aayush20253534&theme=tokyonight" />
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Aayush20253534&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Aayush20253534&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush20253534&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
+## <img src="https://skillicons.dev/icons?i=github" width="24"/> Contribution Graph
 
 [![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayush20253534&theme=tokyo-night)](https://github.com/Aayush20253534)
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://skillicons.dev/icons?i=linkedin" width="24"/> Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/aayush-thakur-a944aa353" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/aayush-thakur-a944aa353">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:thakur29aayush@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/Aayush20253534">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
+## <img src="https://skillicons.dev/icons?i=cpp" width="24"/> Developer Mindset
 
 ```cpp
 while(alive){
@@ -214,6 +217,7 @@ while(alive){
 }
 ```
 
-> Execution > Ideas
->
+> Execution > Ideas  
 > Turning concepts into products, one commit at a time.
+```
+few github stats not working and github trophies to fix that and give full code
