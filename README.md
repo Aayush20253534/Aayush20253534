@@ -1,157 +1,219 @@
 # 🚀 Aayush Thakur
 
-### **Frontend + AI Builder | Hackathon Performer | Turning Ideas into Products**
+### Full-Stack Developer | AI Builder | Hackathon Performer
+
+> Building products, not just projects.
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
-I don’t just learn tech — I **build systems with it**.
+I'm a **B.Tech CSE (2nd Year) student at MNNIT Allahabad** passionate about building impactful software that combines modern web technologies with Artificial Intelligence.
 
-I’m a **B.Tech CSE (1st Year) student at MNNIT Allahabad**, focused on
-**Frontend + AI integration**, creating products that solve real-world problems.
+My focus lies in developing scalable full-stack applications, integrating AI into real-world workflows, and rapidly transforming ideas into working products through hackathons and personal projects.
 
-From hackathons to full-stack prototypes, I thrive in **high-pressure environments**
-where ideas turn into working products — fast.
+I enjoy solving challenging problems, learning new technologies, and creating solutions that deliver meaningful user experiences.
 
 ---
 
-## ⚡ What I Do
+# 🛠 Tech Stack
 
-* 🧩 Build **AI-powered web applications**
-* 🎯 Focus on **user-centric frontend + intelligent backend integration**
-* ⚙️ Turn raw ideas into **scalable product prototypes**
-* 🧠 Combine **React + AI models** to create real impact
+## 💻 Programming Languages
 
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React.js-Frontend-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Core-yellow)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC)
-![GSAP](https://img.shields.io/badge/GSAP-Animations-88CE02)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,java,python" />
+</p>
 
 ---
 
-### ⚙️ Core Programming
-![Python](https://img.shields.io/badge/Python-Primary-informational)
-![C++](https://img.shields.io/badge/C++-DSA-blue)
-![C](https://img.shields.io/badge/C-Foundation-lightgrey)
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+- React.js Ecosystem
+- React Router
+- Context API
+- Custom Hooks
+- GSAP Animations
 
 ---
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Active-orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ANN%20%7C%20CNN-red)
-![AI Builder](https://img.shields.io/badge/Focus-AI%20Product%20Builder-purple)
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- REST APIs
+- Authentication & Authorization
 
 ---
 
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-Version%20Control-black)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717)
+## 🗄 Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+- SQL
+- Cloudinary
 
 ---
 
-### 🏆 Hackathon Edge
-![Sankalp](https://img.shields.io/badge/Sankalp%202026-Top%2010-gold)
-![DevJam](https://img.shields.io/badge/DevJam-3rd%20Place-red)
-![Builder Mode](https://img.shields.io/badge/Mindset-Hackathon%20Builder-ff69b4)
+## 🤖 Artificial Intelligence & Machine Learning
+
+### Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+
+### Deep Learning
+- ANN (Artificial Neural Networks)
+- CNN (Convolutional Neural Networks)
+- RNN (Recurrent Neural Networks)
+- LSTM (Long Short-Term Memory)
+- GRU (Gated Recurrent Units)
+
+### AI Development
+- LangChain
+- Gemini API Integration
+- AI-Powered Applications
 
 ---
 
-## 🏆 Proof of Work
+## 🔧 Tools & Workflow
 
-* 🥇 **Top 10 – Sankalp 2026 (Govt. of India Hackathon)**
-  → Only **1st-year team** to reach this level
-
-* 🥉 **3rd Place – DevJam (Weekend of Code)**
-  → Only **1st-year team in Top 3**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Flagship Project
+# 🏆 Hackathon Achievements
 
-## 🔥 Elevate AI — AI-Powered Career Command Center
+🥇 **Sankalp 2026** - Top 10 Finalist
 
-> Not just a project — a **complete career intelligence system**
+🥉 **DevJam** - 3rd Place
 
-### 💡 What It Does
+🏅 **Hack18** - Top 10 Finalist
 
-Transforms a user’s profile into:
-
-* 📊 **Skill gap analysis**
-* 🗺️ **Personalized learning roadmap**
-* 🎥 **AI-powered interview feedback**
-* 📄 **Smart resume building**
-* 🌐 **Job + social ecosystem**
-
-### ⚙️ Core Features
-
-* AI Resume Builder
-* Interview Simulator (Video + Analysis)
-* Job Matching System
-* Personalized Roadmaps
-* Feed, Messaging & Dashboard
-
-### 🧠 Tech Behind It
-
-* **Frontend:** React + Tailwind + Framer Motion
-* **Backend:** FastAPI
-* **AI Layer:** LangChain + Gemini
-* **Database:** SQLite
-
-👉 Built with focus on **scalability + real-world usability**
+🥈 **Dev or Die** - 2nd Place
 
 ---
 
-## 🧪 Another Build
+# 🚀 Featured Projects
 
-### 🎯 Campus Chanakya — Student Guidance Platform
+## 🔥 Elevate AI
 
-* AI-powered academic support system
-* Personalized learning assistance
-* Structured doubt-solving ecosystem
+### AI-Powered Career Command Center
 
-👉 Designed to make **education more accessible & intelligent**
+An intelligent platform that helps users accelerate career growth through AI-driven insights.
+
+### Features
+
+- AI Resume Builder
+- Personalized Learning Roadmaps
+- Interview Simulator
+- Interview Analysis & Feedback
+- Job Matching System
+- Career Dashboard
+- Community & Messaging
+
+### Tech Stack
+
+- React.js
+- Tailwind CSS
+- Framer Motion
+- FastAPI
+- LangChain
+- Gemini
+- SQLite
 
 ---
 
-## 🧬 Developer Mindset
+## 🎯 Campus Chanakya
 
-* ⚡ **Execution > Ideas**
-* 🧠 Build → Break → Improve → Repeat
-* 🚀 Hackathons = rapid product labs
-* 🎯 Focused on **impact, not just code**
+### AI-Powered Student Guidance Platform
+
+- AI-driven doubt solving
+- Learning assistance
+- Academic guidance
+- Structured support ecosystem
 
 ---
 
-## 📈 Currently Evolving
+# 📈 Currently Exploring
 
-* Full-Stack Development (MERN)
-* Advanced React Patterns
-* Backend Integration & APIs
-* AI-driven real-world systems
+- Advanced MERN Development
+- System Design
+- Scalable Backend Architectures
+- Generative AI
+- Production-Ready AI Systems
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight" />
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight" />
-  <img height="200" src="https://github-readme-streak-stats-eight.vercel.app?user=Aayush20253534&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aayush20253534&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush20253534&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Aayush20253534&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 🏅 GitHub Trophies
 
-- 📧 Email: **thakur29aayush@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/aayush-thakur-a944aa353  
-- 🐙 GitHub: https://github.com/Aayush20253534  
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush20253534&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-✨ *Building ideas into reality, one project at a time.*
+## 📈 Contribution Graph
+
+[![Aayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aayush20253534&theme=tokyo-night)](https://github.com/Aayush20253534)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aayush-thakur-a944aa353" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:thakur29aayush@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Aayush20253534">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+```cpp
+while(alive){
+    Learn();
+    Build();
+    Break();
+    Improve();
+    Repeat();
+}
+```
+
+> Execution > Ideas
+>
+> Turning concepts into products, one commit at a time.
