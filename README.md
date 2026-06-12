@@ -220,4 +220,3 @@ while(alive){
 > Execution > Ideas  
 > Turning concepts into products, one commit at a time.
 ```
-few github stats not working and github trophies to fix that and give full code
